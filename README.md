@@ -10,7 +10,7 @@ Linxu
 * Bachelor Degree in Automation Engineering  Sep. 2005 - July. 2009
 
 ### Experience:  
-* Shenyang Mxnavi Co.,Ltd  Feb, 2012 - present
+Shenyang Mxnavi Co.,Ltd  Feb, 2012 - present  
 Senior Software Engineer
 - Redesigned the program of requesting the TPEG data from the server.
 - Refactored the interfaces of getting the restricted information for Vehicle Routing;
