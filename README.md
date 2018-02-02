@@ -6,13 +6,11 @@ Linxu
 * LinkedIn URL: https://www.linkedin.com/in/lin-xu-439728b5/
 
 ### Education:
-Sep. 2005 - July. 2009
 * Dalian Polytechnic University - Dalian, Liaoning
-* Bachelor Degree in Automation Engineering
+* Bachelor Degree in Automation Engineering  Sep. 2005 - July. 2009
 
 ### Experience:  
-Feb, 2012 - present  
-Shenyang Mxnavi Co.,Ltd  
+* Shenyang Mxnavi Co.,Ltd  Feb, 2012 - present
 Senior Software Engineer
 - Redesigned the program of requesting the TPEG data from the server.
 - Refactored the interfaces of getting the restricted information for Vehicle Routing;
