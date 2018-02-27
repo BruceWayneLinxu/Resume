@@ -15,7 +15,7 @@ Shenyang Mxnavi Co.,Ltd  Feb, 2012 - present
 Senior Software Engineer
 - Redesigned the program of requesting the TPEG data from the server.
 - Refactored the interfaces of getting the restricted information for Vehicle Routing;
-- Improved the performance of road calculation by code refactoring.
+- Improved efficiency of road calculation programs by performing code refactoring.
 - Managed to optimize the process of retrieving TPEG data from the cached database.
 - Designed and developed the iOS navigation product.
 - Developed solutions to connect our cellphone navigation application to the vehicle head unit.
