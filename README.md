@@ -57,4 +57,3 @@ Other:
 
 ### Interests:
 - Art, Philosophy, History
-
