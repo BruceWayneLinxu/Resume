@@ -13,28 +13,30 @@ Linxu
 ### Experience:  
 Shenyang Mxnavi Co.,Ltd  Feb, 2012 - present  
 Senior Software Engineer
-- Redesigned the program of requesting the TPEG data from the server.
-- Refactored the interfaces of getting the restricted information for Vehicle Routing;
+- Refactored the APIs for the road restriction module.
 - Improved efficiency of road calculation programs by performing code refactoring.
+- Redesigned the program of Real Time Traffic.
 - Managed to optimize the process of retrieving TPEG data from the cached database.
-- Designed and developed the iOS navigation product.
-- Developed solutions to connect our cellphone navigation application to the vehicle head unit.
-- Assisted in the development of the navigation sdk (iOS).
-- Developed solutions to improve the user experience.
+- Communicated with development engineers and recommended solutions.
   
-Software Engineer
+Software Engineer:
+- Responsible for development of existing and new Iphone Applications.
+- Managed a team of two full time software engineers.
+- Designed and developed the iOS navigation product and connected it to the vehicle head unit.
+- Coordinated with designers to implement User Interface.
+- Developed solutions to improve the product's user experience.
+- Assisted in the development of the navigation sdk, including gesture recognition and road calculation.
 - Developed solutions to convert the map data from gdf to shapefile format in order to analyze and display geospatial information using QGIS.
 - Improved the process of making the navigation map data through program optimization.
 - Developed and maintained several tools to test and verify the navigation data.
 - Performed validity checking to ensure accuracy of the navigation data.
 - Took business travels to give feedback about quality issues to the map data provider.
-- Communicated with development engineers and recommended solutions.  
   
 Other:
 - Performed as an English teacher and contributed to training activities inside the company.
 - Translated several design documents from Chinese into English and some blogs from English into Chinese. Please refer to https://my.oschina.net/randy1986
 - Responded to engineers' questions and helped them resolve problems.
-
+  
 ### Operating Systems:
 - Windows NT/XP, Unix (Mac OS, Linux)
 
@@ -42,9 +44,10 @@ Other:
 - C/C++, Objective-C, python
 
 ### Tools:
-- git, cmake, valgrind, wireshark, IntelVTuneAmplifier
+- git, cmake, valgrind, wireshark, IntelVTuneAmplifier, sqlite, curl
 
 ### Summary:
+- Familiar with data structures and common algorithms.
 - Strong understanding of C, C++, and object-oriented development.
 - Proven ability to build high performance, secure applications with quality code.
 - Extensive experience with multi-threaded software development environments.
